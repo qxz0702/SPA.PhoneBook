@@ -98,6 +98,7 @@
     <text name="EditTenant">编辑租户</text>
 
     <text name="PhoneBook" value="电话薄"></text>
+    <text name="CreateNewPerson" value="创建联系人"></text>
     
     
   </texts>
