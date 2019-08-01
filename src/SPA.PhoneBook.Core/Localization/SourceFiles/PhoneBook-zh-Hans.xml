@@ -99,7 +99,8 @@
 
     <text name="PhoneBook" value="电话薄"></text>
     <text name="CreateNewPerson" value="创建联系人"></text>
-    
+    <text name="Save">保存</text>
+    <text name="SavedSuccessfully">保存成功！</text>
     
   </texts>
 </localizationDictionary>
